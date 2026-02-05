@@ -19,4 +19,4 @@ External Stylesheet: All styles must be contained in a separate stylesheet.css f
 
 Deployment & Workflow
 Version Control: Host the code in a GitHub repository.
-Live Deployment: Deploy the site using GitHub Pages so it is accessible at https://<your-username>.github.io.
+Live Deployment: Site is accessible at https://bhagyasri1802.github.io/
