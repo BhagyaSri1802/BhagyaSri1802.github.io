@@ -1,19 +1,19 @@
 /* Tag selector */
 body {
     font-family: Arial, Helvetica, sans-serif;
-    line-height: normal;
-    color: black;
-    background-color: whitesmoke;
-    margin: auto;
-    padding: auto;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
 }
 
 /* ID selector: Styling a unique element */
 #header-section {
-    background-color: darkgrey;
+    background-color: #24292e;
     color: white;
     text-align: center;
-    padding: 20%;
+    padding: 20px;
 }
 
 /* Class Selector */
